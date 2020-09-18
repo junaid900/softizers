@@ -1,0 +1,179 @@
+.car-class-small-lx {
+
+	background-color:transparent;
+
+	background-position: -25px center;
+
+	background-repeat: no-repeat;
+
+	background-size: 175px auto;
+
+	border-radius: 0;
+
+	width: 100%;
+
+}
+.btn-warning {
+	background-color: #FF8A00 !important;
+	color: #fff;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.btn-warning:hover {
+    color: #fff !important;
+    background-color: #000 !important;
+    border-color: #000 !important;
+}
+.price {
+
+	font-size: 28.8px;
+
+	margin-bottom: 0;
+
+}
+
+.price span {
+
+	display: inline-block;
+
+	font-size: 16px;
+
+	padding-top: 3px;
+
+	vertical-align: super !important;
+
+}
+
+.car-class {
+
+	font-size: 28.8px;
+
+	margin: 0;
+
+}
+
+.check {
+
+	background-color: transparent;
+
+	display: inline-block;
+
+	float: right;
+
+	height: 14px;
+
+	position: absolute;
+
+	right: 10px;
+
+	top: 50%;
+
+	width: 14px;
+
+}
+
+.car-passenger span {
+
+	display: inline-block;
+
+	margin-right: 5px;
+
+	font-size: 25px;
+
+	font-weight: bold;
+
+}
+
+.car-class-small-lx img {
+
+	width: 160px;
+
+	float: left;
+
+	-moz-transform: scaleX(-1);
+
+	-o-transform: scaleX(-1);
+
+	-webkit-transform: scaleX(-1);
+
+	transform: scaleX(-1);
+
+	filter: FlipH;
+
+	-ms-filter: "FlipH";
+
+}
+
+h1.car-class {
+
+	font-size: 30px;
+
+	line-height: 0.85;
+
+	margin-bottom: 15px;
+
+}
+
+.ust-lg-3-img {
+
+	width: 100%;
+
+}
+
+.ust-lg-12-border {
+
+	border-bottom: 2px solid !important;
+
+	border-radius: 5px;
+
+	margin: 15px 0;
+
+	padding: 15px 0;
+
+}
+
+.ust-lg-12-border:hover h1.car-class, .ust-lg-12-border:hover .price, .ust-lg-12-border:hover .price span, .ust-lg-12-border:hover .car-class, .ust-lg-12-border:hover.car-passenger span, .ust-lg-12-border:hover, .ust-lg-12-border:hover h5 {
+
+	color: #004A75 !important;
+
+	cursor: pointer;
+
+}
+
+.btn-block {
+
+	width: 70% !important;
+
+	margin-top: 20px;
+
+}
+
+.map-header {
+
+	background: url("../images/map.png");
+
+	border-radius: 3px;
+
+	color: #000;
+
+	font-size: 15px;
+
+	font-weight: bold;
+
+	padding: 25px;
+
+	margin-bottom: 30px;
+
+	-webkit-box-shadow: 0px 5px 8px -3px rgba(50, 50, 50, 0.75);
+
+	-moz-box-shadow: 0px 5px 8px -3px rgba(50, 50, 50, 0.75);
+
+	box-shadow: 0px 5px 8px -3px rgba(50, 50, 50, 0.75);
+
+}
+
+.top.init {
+
+	font-size: 30px;
+
+}
+

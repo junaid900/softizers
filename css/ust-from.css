@@ -1,0 +1,280 @@
+h2.ustheader {
+
+	font-size: 35px;
+
+	color: #333268;
+
+}
+
+.ust-booker-hidden-xs {
+
+	border-top-right-radius: 4px;
+
+	border-top-left-radius: 4px;
+
+	padding: 10px;
+
+	background-color: #fff;
+
+}
+
+.btn-ride-types {
+
+	background-color: #FF8A00;
+
+	display: inline-block;
+
+	float: left;
+
+	margin-bottom: 0px;
+
+	width: 100%;
+
+}
+
+#ui-datepicker-div {
+
+	z-index: 999 !important;
+
+}
+
+.btn-ride-types button {
+
+	float: left;
+
+	width: 31.33%;
+
+	border: none;
+
+}
+
+.btn-blue-booker:first-child {
+
+	box-shadow: none !important;
+
+}
+
+.btn-blue-booker {
+
+	text-align: center !important;
+
+}
+
+.btn-blue-booker {
+
+	background-color: #FF8A00;
+
+	border-radius: 0;
+
+	box-shadow: none;
+
+	margin-bottom: 0;
+
+	color: #fff;
+
+	font-weight: 700;
+
+	padding: 10px;
+
+}
+
+#ust_taxi_booker_form label {
+
+	text-align: left;
+
+	font-size: 1.4rem;
+
+}
+
+#ust_taxi_booker_form .btn-block {
+
+	width: 100% !important;
+
+}
+
+.btn-blue-booker:active, .btn-blue-booker.active, .open .dropdown-toggle.btn-blue-booker {
+
+	background-image: none !important;
+
+}
+
+.btn-blue-booker:active, .btn-blue-booker.active, .open .dropdown-toggle.btn-blue-booker {
+
+	background-color: #f5f7f6 !important;
+
+	color: #333268 !important;
+
+	outline: none;
+
+}
+
+.ust-main-taxi-booker label {
+
+	font-weight: 600 !important;
+
+	margin-top: 5px;
+
+}
+
+.btn-blue-booker {
+
+	color: #fff;
+
+	font-weight: 700;
+
+}
+
+.hideit {
+
+	display: none;
+
+}
+
+#area_datetime_round {
+
+	/*background-color: #b3e6fc7a;*/
+
+	margin-top: 0px;
+
+	padding-bottom: 0px;
+
+}
+
+.styled-select select {
+
+	background: transparent;
+
+	width: 268px;
+
+	padding: 5px;
+
+	font-size: 16px;
+
+	line-height: 1;
+
+	border: 0;
+
+	border-radius: 0;
+
+	height: 34px;
+
+	-webkit-appearance: none;
+	
+
+}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+.ust-arrow{
+	background: url('../images/select-arrow.png') #fff no-repeat 98% center;
+    background-size: 19px auto;
+}
+.styled-select {
+
+	width: 240px;
+
+	height: 34px;
+
+	overflow: hidden;
+
+	background: url("ust_taxi_booker.png") no-repeat right #ddd;
+
+	border: 1px solid #ccc;
+
+}
+
+.minibooker-login-form-holder {
+
+	background-color: #fff;
+
+	box-shadow: 0 5px 5px -5px rgba(0, 0, 0, 0.35) inset, 0 -5px 5px -5px rgba(0, 0, 0, 0.35) inset;
+
+	padding: 10px 15px;
+
+}
+
+.minibooker-login-form-holder h5 {
+
+	font-size: 16px;
+
+	font-weight: 400;
+
+	text-align: center;
+
+	margin-bottom: 0px;
+
+}
+
+.minibooker-login-form-holder a {
+
+	text-decoration: underline;
+
+}
+
+.text-center {
+
+	text-align: center;
+
+}
+
+.hidden-xs {
+
+	display: block !important;
+
+	font-size: 14px;
+
+	line-height: 1.42857;
+
+	color: #333;
+
+}
+
+.text-center.phonenumber-container .hidden-xs {
+
+	margin-bottom: 10px;
+
+}
+
+
+
+@media (max-width: 1002px) {
+
+label {
+
+	display: table;
+
+}
+
+}
+
+.form-control {
+
+	margin-bottom: 0;
+
+	width: 100%;
+
+}
+
+.input-group {
+
+	width: 100%;
+
+}
+
+.highlight {
+
+	border: 1px solid #a94442 !important;
+
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+
+}
+
+.with-errors {
+
+	color: #a94442;
+
+}
+

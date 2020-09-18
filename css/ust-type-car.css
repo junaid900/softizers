@@ -1,0 +1,46 @@
+fieldset.scheduler-border {
+	border: 1px groove #ddd !important;
+	padding: 0 1.4em 1.4em 1.4em !important;
+	margin: 0 0 1.5em 0 !important;
+	-webkit-box-shadow: 0px 0px 0px 0px #000!important;
+	box-shadow: 0px 0px 0px 0px #000!important;
+	width: 95%!important;
+}
+legend.scheduler-border {
+	font-size: 1.8em !important;
+	font-weight: bold !important;
+	text-align: left !important;
+	width: auto!important;
+	border-bottom: none!important;
+	margin-bottom: 10px!important;
+}
+.description > strong {
+	color: red!important;
+}
+.ui-widget-header {
+	border: 1px solid #aaaaaa!important;
+	background-color: #cccccc!important;
+	color: #222222!important;
+	font-weight: bold!important;
+	padding: 0px 0px 0px 15px !important;
+	text-transform: capitalize!important;
+}
+.ust_input_custom {
+	width: 125px !important;
+}
+.form-table th {
+	width: 130px !important;
+}
+hr {
+	border-color: #ccc -moz-use-text-color #fafafa !important;
+	border-width: 3px 0!important;
+}
+fieldset.scheduler-border {
+	padding: 0 1em 1.4em !important;
+}
+.form-table td {
+	padding: 0px !important;
+}
+.form-table th {
+	line-height: 2.3 !important;
+}

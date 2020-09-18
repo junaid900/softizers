@@ -1,0 +1,23 @@
+.parsley-error-list {
+	padding-left: 0;
+}
+.parsley-error-list li {
+	color: #f00 !important;
+	list-style: none;
+	padding: 2px;
+}
+.parsley-error-list li.required {
+	color: #f00 !important;
+}
+.parsley-error-list .required {
+	color: #f00 !important;
+}
+.required {
+	color: #f00 !important;
+}
+.main_menu .fa {
+	color: #a7cd3a;
+}
+.cutom-p {
+	margin-top: 8px;
+}

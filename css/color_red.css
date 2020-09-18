@@ -1,0 +1,167 @@
+body {
+
+	/* background:#fff url('../assets/header_red.png') 0 0 repeat-x;*/
+	 background:#fff url('../assets/header_blue.png') 0 0 repeat-x;
+
+}
+
+
+
+input.button, a.button {
+
+	background:#4c030c url('../assets/redbut.png') 0 0 repeat-x;
+
+	border:1px solid #73080e;
+
+	color:#ccc!important;
+
+	border-radius:4px;
+
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+
+	color:#830E15;
+
+}
+
+
+
+#navbar ul.nav {
+
+	 border-right:1px solid #FF6B02;
+
+	border-left:1px solid #FFFC00;
+
+}
+
+
+
+ul.nav li {
+
+	 border-left:1px solid #FF6B02;
+
+	border-right:1px solid #FFFC00;
+
+}
+
+
+
+ul.nav ul li {
+
+	/* border-left:3px solid #600610;*/
+
+}
+
+
+
+ul.nav li li {
+
+		background:	#FFFC00;
+
+}
+
+
+
+ul.nav li li a {
+
+	 color:#CC0000;
+
+}
+
+
+
+ul.nav li li a:hover {
+
+	color:#fff;
+
+	background:#698F14;
+
+}
+
+
+
+.ui-state-active, .ui-widget-content .ui-state-active { border: 1px solid #73080e; background: url('../assets/redbut.png') 0 0 repeat-x; font-weight: normal; color: #fff; outline: none; }
+
+/*
+
+Plugin Name: WP-Digg Style Paginator
+
+Plugin URI: http://www.mis-algoritmos.com/2007/09/09/wp-digg-style-pagination-plugin-v-10/
+
+Author: Victor De la Rocha
+
+Author URI: http://www.mis-algoritmos.com
+
+
+
+.pagination {
+
+	padding: 3px;
+
+	margin: 3px;
+
+	text-align:center;
+
+}
+
+
+
+.pagination a {
+
+	padding: 2px 5px 2px 5px;
+
+	margin: 2px;
+
+	border: 1px solid #EEE;
+
+	text-decoration: none;
+
+	color: #036CB4;
+
+}
+
+
+
+.pagination a:hover,
+
+.pagination a:active {
+
+	border: 1px solid #999;
+
+	color: #666;
+
+}
+
+.pagination .current {
+
+	padding: 2px 5px 2px 5px;
+
+	margin: 2px;
+
+	border: 1px solid #036CB4;
+
+	font-weight: bold;
+
+	background-color: #036CB4;
+
+	color: #FFF;
+
+}
+
+.pagination .disabled {
+
+	padding: 2px 5px 2px 5px;
+
+	margin: 2px;
+
+	border: 1px solid #EEE;
+
+	color: #DDD;
+
+}
+
+*/
+
